@@ -1,7 +1,7 @@
 === WP Google Maps Shortcode ===
-Author URI: http://fahmiadib.wordpress.com
-Plugin URI: http://fahmiadib.wordpress.com/wp-google-maps-shortcode/
-Contributors: fahmiadib
+Author URI: http://trycatch.in.th
+Plugin URI: http://trycatch.in.th/wp-google-maps-shortcode/
+Contributors: fahmiadib, frankent
 Tags: gmaps, google maps, short code, maps
 Requires at least: 3.5
 Tested up to: 3.9.1
